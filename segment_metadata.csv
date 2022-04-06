@@ -1,0 +1,9 @@
+ID,Name,Anatomy,Action
+SVVD,Seminal vesicle and vas deferens + Dissection,Seminal vesicle and vas deferens,Dissect
+LN,Lymph node + Dissection,Lymph node,Dissect
+BN,Bladder neck + Dissection,Bladder neck,Dissect
+NVB,Neurovascular Bundle + Dissection,Neurovascular Bundle,Dissect
+DVC,Dorsal Venous Complex + Dissection,Prostate Apex,Dissect
+PA,Prostate Apex + Dissection,,Dissect
+BNU,Bladder neck and urethra + Suture,Bladder neck and urethra,Suture
+ETC,etc,None,None
