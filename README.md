@@ -10,7 +10,7 @@ We introduce a labeled dataset of prostatectomy robotic surgical videos. It cont
 - segment_metadata.csv : Details of the labels used in the dataset, including ID (which is used in segments.csv), name of the label, anatomy, and surgical action
 
 ## Dataset Examples
-![example image](https://anonymous.4open.science/r/surch-dataset-604D/dataset_preview.png)
+![example image](https://anonymous.4open.science/r/surch-dataset-41FB/dataset_preview.png)
 
 ## Licensing
 * Labels are licensed under [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
