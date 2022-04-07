@@ -1,8 +1,8 @@
 # Surch Dataset
-Prostatectomy robotic surgery video dataset labelled with anatomy and surgical action for each timestamp
+Prostatectomy robotic surgery video dataset labeled with anatomy and surgical action for each timestamp
 
 ## Overview
-We introduce a labeled dataset of prostatectomy robotic surgical videos. It contains data for a total of 289 videos (249 videos from Youtube, 40 videos from [MUSIC urology](https://www.musicurologyvideo.com/)), and includes the labelling results of the anatomy and surgical actions covered in each part of videos.
+We introduce a labeled dataset of prostatectomy robotic surgical videos. It contains data from a total of 281 videos (241 videos from Youtube, 40 videos from [MUSIC urology](https://www.musicurologyvideo.com/)), which are segmented into 3246 segments. It includes the labeling results of the anatomy and surgical actions covered in each part of the videos.
 
 ## Dataset Details
 - segments.csv : Main dataset file. Each row represents a specific segment of the video. Each row includes video ID, start/end time of the segment (expressed in seconds), and label ID.
