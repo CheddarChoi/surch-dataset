@@ -3,7 +3,7 @@ SVVD,Seminal vesicle and vas deferens + Dissection,Seminal vesicle and vas defer
 LN,Lymph node + Dissection,Lymph node,Dissect
 BN,Bladder neck + Dissection,Bladder neck,Dissect
 NVB,Neurovascular Bundle + Dissection,Neurovascular Bundle,Dissect
-DVC,Dorsal Venous Complex + Dissection,Prostate Apex,Dissect
-PA,Prostate Apex + Dissection,,Dissect
+DVC,Dorsal Venous Complex + Dissection,Dorsal Venous Complex,Dissect
+PA,Prostate Apex + Dissection,Prostate Apex,Dissect
 BNU,Bladder neck and urethra + Suture,Bladder neck and urethra,Suture
 ETC,etc,None,None
